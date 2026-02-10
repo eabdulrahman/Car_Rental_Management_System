@@ -1,1 +1,3 @@
 The Car Rental Management System is a comprehensive web application designed to streamline the process of renting vehicles for both customers and agent at a car rental company. The system provides a centralized platform for agents to track finances, car rentals, and manage vehicles. Built using modern web technologies including Java Spring Boot, REST API, JavaScript, and MySQL database, the system demonstrates the effective integration of frontend and backend technologies to create a robust car rental application. 
+<img width="975" height="383" alt="image" src="https://github.com/user-attachments/assets/a54f9384-0162-45ab-b727-7857627b2124" />
+
